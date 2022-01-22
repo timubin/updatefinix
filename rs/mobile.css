@@ -1,0 +1,11 @@
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+.navbar .mobileIcon {
+  display: none;
+}
+.navbar ul {
+  display: none;
+}
+#headericon {
+  display: none !important;
+}
